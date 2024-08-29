@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Xilin Zhang, a Ph.D. candidate in Dr. Zeynep Ertem and Dr. Emrah Akyol's lab at Binghamton University. 
+- 👋 Hi, I’m Xilin Zhang, PhD in System Science from Binghamton University. 
 - 👀 My research interest is in computational social science, game theory, and decision science. 
 - 🌱 I received my M.A. in Economics and B.S. in Financial Economics from Binghamton University.
-- 💞️ I’m looking to collaborate or host a discussion group on game theory and disease modeling.
+- 💞️ I’m looking to collaborate or host a discussion group on game theory and social network analysis.
 - 📫 How to reach me: xzhan176@binghamton.edu
 
 <!---
